@@ -17,4 +17,4 @@ Esse repositório tem como objetivo oferecer apoio para desenvolvedores (princip
 
 
 ## Licença
-MIT License (MIT) 2025 - [Francisco de Paula](https://github.com/euchico/). Consulte a seção [LICENSE.md](LICENSE) para obter mais detalhes.
+MIT License (MIT) 2025 - [Francisco de Paula](https://github.com/euchico/). Consulte a seção [LICENSE](LICENSE) para obter mais detalhes.
